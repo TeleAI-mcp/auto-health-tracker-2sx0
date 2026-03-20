@@ -1,2 +1,3 @@
-# auto-health-tracker-2sx0
+# Auto Health Tracker 2Sx0
+
 A health and fitness tracking system for modern development workflows.
